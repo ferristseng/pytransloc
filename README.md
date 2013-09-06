@@ -1,3 +1,7 @@
+  <p align='center'>
+    <img src='http://ferristseng.com/assets/img/pytransloc.png' width='256px' height='256px' />
+  </p>
+
 ## Python Wrapper for TransLoc Feed
 
 ### Installation
