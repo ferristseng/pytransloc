@@ -70,6 +70,6 @@ arrival.schedule(say_arrived)
 
 ### TODO
 
-  * [ ] Segments data
-  * [ ] Make tests
-  * [ ] Allow searching by stop name for routes
+  - [ ] Segments data
+  - [ ] Make tests
+  - [ ] Allow searching by stop name for routes
